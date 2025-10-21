@@ -37,6 +37,6 @@ I am passionate about leveraging GIS, WebGIS, data analysis, and open-source too
 ---
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayanibt&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayanibt&langs_count=3)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayanibt&langs_count=3&hide=html,css)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
