@@ -10,8 +10,9 @@ I started my career at M.S. Tech Pvt. Ltd., a consultancy focused on hydropower 
 
 Alongside this, I was involved with Science Playground Pvt. Ltd., an educational initiative by the same founder, where I worked on developing interactive science exhibits. A highlight of this collaboration was leading the "3D Terrain Modeling of Nepal" project—an innovative 3D printed map integrating topography, hydrology, and infrastructure for educational and planning purposes.
 
-Later, as an independent consultant, I developed a GIS database and published an interactive web map showcasing all listed hydropower and solar projects in Nepal at various development stages. This work contributed to broader technical studies for Nepal’s power system planning in the context of the Dudhkoshi Storage HEP and beyond. View the map here: 
-<https://ayanibt.github.io/Power-Projects>.
+Later, as an independent consultant, I developed a GIS database and published an interactive web map showcasing all listed hydropower and solar projects in Nepal at various development stages. This work contributed to broader technical studies for Nepal’s power system planning in the context of the Dudhkoshi Storage HEP and beyond. 
+
+View the map here: <https://ayanibt.github.io/Power-Projects>.
 
 I am currently working as a Project Engineer, providing technical support in hydropower project execution. My responsibilities include coordinating contracts based on FIDIC standards, reviewing bid / contract documents for Civil, Hydro-mechanical and Electro-mechanical works, and overseeing site supervision and reporting for projects such as Upper Pikhuwa (4.9 MW) and Pikhuwa Pashupati (4.1 MW).
 
