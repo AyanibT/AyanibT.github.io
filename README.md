@@ -17,7 +17,9 @@ View the map here: <https://hydronaxa.com/>.
 
 I am currently working as a Project Engineer, providing technical support in hydropower project execution. My responsibilities include coordinating contracts based on FIDIC standards, reviewing bid / contract documents for Civil, Hydro-mechanical and Electro-mechanical works, and overseeing site supervision and reporting for projects such as Upper Pikhuwa (4.9 MW) and Pikhuwa Pashupati (4.1 MW).
 
-I am passionate about leveraging GIS, WebGIS, data analysis, and open-source tools to support sustainable energy infrastructure and climate-resilient development. His open-source work is available at 
+I am passionate about leveraging GIS, WebGIS, data analysis, and open-source tools to support sustainable energy infrastructure and climate-resilient development. 
+
+His open-source work is available at 
 
 ---
 
