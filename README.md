@@ -2,6 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ayanibt?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/binaya-basnet/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayanibt.ayanibt)
 
 
 I am a Civil Engineer with a Master’s degree in Water Engineering and Management from the Asian Institute of Technology (AIT), Thailand, and a strong interest in renewable energy, geospatial analysis, and climate-focused infrastructure development. My professional journey began in 2014 when I joined Khwopa Engineering College, Nepal, and since earning my Bachelor's degree in 2019, I have worked across diverse roles in hydropower, solar energy, GIS, and technical consulting.
@@ -12,7 +13,7 @@ Alongside this, I was involved with Science Playground Pvt. Ltd., an educational
 
 Later, as an independent consultant, I developed a GIS database and published an interactive web map showcasing all listed hydropower and solar projects in Nepal at various development stages. This work contributed to broader technical studies for Nepal’s power system planning in the context of the Dudhkoshi Storage HEP and beyond. 
 
-View the map here: <https://ayanibt.github.io/Power-Projects>.
+View the map here: <https://hydronaxa.com/>.
 
 I am currently working as a Project Engineer, providing technical support in hydropower project execution. My responsibilities include coordinating contracts based on FIDIC standards, reviewing bid / contract documents for Civil, Hydro-mechanical and Electro-mechanical works, and overseeing site supervision and reporting for projects such as Upper Pikhuwa (4.9 MW) and Pikhuwa Pashupati (4.1 MW).
 
